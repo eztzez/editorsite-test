@@ -1,7 +1,7 @@
 ---
 title: Landing Page
 carousel:
-  - image: /uploads/images/construction-late-payments.jpg
+  - image: /uploads/images/111.jpg
     subtitle: one
     title: One
   - image: /uploads/images/carousel-2.jpg
